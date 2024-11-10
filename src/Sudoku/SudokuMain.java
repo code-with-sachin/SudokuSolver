@@ -2,7 +2,6 @@ package Sudoku;
 
 public class SudokuMain {
 
-    //Apna College - Shraddha Kapra didi
     public static void main(String[] args) {
         char[][] board = {
                 {'5', '3', '.', '.', '7', '.', '.', '.', '.'},

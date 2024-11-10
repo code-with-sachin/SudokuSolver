@@ -2,7 +2,7 @@ package Sudoku;
 
 public class SudokuSolverApproach2 {
 
-    //Code with John
+    //Code with Sachin
 
     private static final int GRID_SIZE = 9;
     public static void main(String[] args) {
